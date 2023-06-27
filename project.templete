@@ -1,0 +1,18 @@
+my_project/
+├── bash_scripts/
+│   ├── install_packages.sh
+│   └── setup_environment.sh
+├── python_scripts/
+│   ├── load_model.py
+│   ├── fine_tune_model.py
+│   ├── evaluate_model.py
+│   └── generate_text.py
+├── data/
+│   ├── training_data/
+│   ├── validation_data/
+│   └── test_data/
+├── models/
+│   ├── pre_trained_model/
+│   └── fine_tuned_model/
+├── README.md
+└── LICENSE
