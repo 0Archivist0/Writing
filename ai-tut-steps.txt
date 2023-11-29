@@ -35,6 +35,5 @@ output = model(text)
 
 print(output)
 
-Use code with caution. Learn more
 
 This will print the output of the model, which is a sequence of tokens that represent the meaning of life.
